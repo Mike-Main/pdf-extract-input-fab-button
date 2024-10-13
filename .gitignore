@@ -1,0 +1,39 @@
+# Dependency directories
+node_modules/
+platforms/
+plugins/
+
+# Build directories
+www/
+build/
+dist/
+
+# Capacitor generated directories
+android/
+ios/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# Environment variable files
+.env
+.env.*
+
+# MacOS system files
+.DS_Store
+
+# Log files
+*.log
+
+# IDE directories
+.vscode/
+.idea/
+
+# Generated files from Cordova or Capacitor
+.gradle/
+.sourcemaps/
+package-lock.json
+yarn.lock
